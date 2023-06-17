@@ -1,0 +1,16 @@
+body {
+  background-image: URL(https://fondosmil.com/fondo/85022.jpg)
+}
+
+.prol {
+  background-color: #737373;
+  color: #243170;
+	box-sizing: border-box;
+	font-size: 1.4em;
+	line-height: 1.0em;
+	margin: 20px auto;
+	margin-top: 80px;
+	padding: 20px;
+	width: 100%;
+	max-width: 800px;
+}

@@ -1,0 +1,16 @@
+body {
+  background-image: URL(https://fondosmil.com/fondo/84935.jpg)
+}
+
+.menu {
+  background-color: #616161;
+  color: #822626;
+	box-sizing: border-box;
+	font-size: 1.8em;
+	line-height: 1.0em;
+	margin: 20px auto;
+	margin-top: 80px;
+	padding: 20px;
+	width: 100%;
+	max-width: 800px;
+}
